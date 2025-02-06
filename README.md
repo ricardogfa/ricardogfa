@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou o Ricardo Gleison, estudante de Programação e entusiasta de tecnologia!
 
-<!--
-**ricardogfa/ricardogfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como assistente de T.I
+- 🌱 Estou aprendendo C# e Kotlin
+- 📫 contate-me pelo email: rgfaraujo@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/ricardogfa">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardogfa&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogfa&layout=compact&langs_count=16&theme=tokyonight""/>
+    
+<div style="display: inline_block"><br>
+    <img align="center" alt="Ricardo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Ricardo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+   <a href = "mailto:contatrgfaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-gleison-farias-araujo-588179269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
